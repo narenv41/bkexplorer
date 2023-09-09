@@ -1,0 +1,13 @@
+/* App.css */
+
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url("./milky-way-2695569_1280.jpg");
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+}
+
